@@ -33,5 +33,5 @@ classifiers = [
 ]
 
 [project.urls]
-Repository = "https://github.com/SupKittyMeow/DVD_yesness"
-Issues = "https://github.com/SupKittyMeow/DVD_yesness/issues"
+Repository = "https://github.com/Precontation/DVD_yesness"
+Issues = "https://github.com/Precontation/DVD_yesness/issues"
