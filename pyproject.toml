@@ -17,7 +17,7 @@ readme = "README.md"
 requires-python = ">= 3.8"
 version = "1.0.3.5"
 dependencies = ["Pillow"]
-authors = [{name = "SupKittyMeow", email = "supkittymeow@gmail.com"}]
+authors = [{name = "Precontation", email = "77246128+Precontation@users.noreply.github.com"}]
 license = {file = "LICENSE"}
 keywords = ["dvd", "logo", "spin", "yes", "yay", "happy", "cool", "fun", "project"]
 classifiers = [
